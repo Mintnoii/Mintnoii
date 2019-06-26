@@ -3,7 +3,7 @@
 - 👨🏻‍💻 A front-end engineer in Shanghai.
 - 🌱 Focus on React & Vue & Rust.
 
-<h4 align="left">Languages and Tools:</h4>
+<h4 align="left">📚 Languages</h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -22,10 +22,12 @@
   </a>
 </p>
 
-<h4>👾 Github stats & Most used languages</h4>
+<h4>👾 Github stats</h4>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mintnoii&theme=tokyonight&show_icons=true&hide=contribs" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintnoii&layout=compact&theme=tokyonight" />
 </p>
+
+
