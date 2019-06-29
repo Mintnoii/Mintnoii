@@ -1,22 +1,31 @@
-### Yoo, I'm Mintnoii. 👋
+# Hi! My name is Mintnoii. 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=W-Qing&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+- 👨🏻‍💻 A front-end engineer in Shanghai.
+- 🌱 Focus on React & Vue & Rust.
 
-- 👨🏻‍💻   A front-end engineer currently living in Shanghai, China.
-- 🌱   My current interest is learning computer graphics and visualization techniques.
-- 🤝   I am also happy to be involved in open source projects, if you have the same interests or some questions please contact me!
+<h4 align="left">Languages and Tools:</h4>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  </a>
+</p>
 
-<!--
-**W-Qing/W-Qing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>👾 Github stats & Most used languages</h4>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mintnoii&theme=tokyonight&show_icons=true&hide=contribs" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintnoii&layout=compact&theme=tokyonight" />
+</p>
