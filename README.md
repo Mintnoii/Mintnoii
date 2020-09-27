@@ -1,5 +1,10 @@
 ### Yoo, I'm W-Qing 👋
 
+- 👨🏻‍💻 I’m a front-end engineer and currently live in Shanghai, China.
+- 🌱 I’m currently learning computer graphics and visualization techniques.
+
+https://github-readme-stats.vercel.app/api?username=W-Qing&show_icons=true
+
 <!--
 **W-Qing/W-Qing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
