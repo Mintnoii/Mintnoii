@@ -1,7 +1,9 @@
 ### Yoo, I'm W-Qing 👋
+------
 
-- 👨🏻‍💻 I’m a front-end engineer and currently live in Shanghai, China.
-- 🌱 I’m currently learning computer graphics and visualization techniques.
+- 👨🏻‍💻  A front-end engineer currently living in Shanghai, China.
+- 🌱  My current interest is learning computer graphics and visualization techniques.
+- 🤝  I am also happy to be involved in open source projects, if you have the same interests or some questions please contact me!
 
 ![Mintnoii's Github stats](https://github-readme-stats.vercel.app/api?username=W-Qing&show_icons=true)
 
