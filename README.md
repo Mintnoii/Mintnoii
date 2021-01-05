@@ -1,10 +1,10 @@
 ### Yoo, I'm W-Qing 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=W-Qing&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 - 👨🏻‍💻   A front-end engineer currently living in Shanghai, China.
 - 🌱   My current interest is learning computer graphics and visualization techniques.
 - 🤝   I am also happy to be involved in open source projects, if you have the same interests or some questions please contact me!
-
-![Mintnoii's Github stats](https://github-readme-stats.vercel.app/api?username=W-Qing&show_icons=true)
 
 <!--
 **W-Qing/W-Qing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
