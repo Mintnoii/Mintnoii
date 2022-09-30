@@ -23,11 +23,7 @@
 </p>
 
 <h4>👾 Github stats</h4>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mintnoii&theme=tokyonight&show_icons=true&hide=contribs" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintnoii&layout=compact&theme=tokyonight" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mintnoii&theme=tokyonight&show_icons=true&hide=contribs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintnoii&layout=compact&theme=tokyonight" />
 
 
