@@ -21,9 +21,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
   </a>
 </p>
-
+<!--
 <h4>👾 Github Stats & Most Used Languages</h4>
 <img align="left" style="max-width: 100%;width: 475px;height: 162px;" src="https://github-readme-stats.vercel.app/api?username=Mintnoii&theme=tokyonight&show_icons=true&hide=contribs" />
 <img align="center" style="max-width: 100%;height: 162px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintnoii&layout=compact&theme=tokyonight" />
+-->
 
 
