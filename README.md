@@ -1,4 +1,4 @@
-# Hi! My name is Mintnoii. 👋
+# Hi! I'm Mintnoii. 👋
 
 - 👨🏻‍💻 A front-end engineer in Shanghai.
 - 🌱 Focus on React & Vue & Rust.
