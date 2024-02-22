@@ -13,7 +13,7 @@
 ## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,svelte,vite,webpack,sass,tailwind,windicss，nextjs,nuxtjs,nodejs,docker,linux,nginx,vscode,notion&theme=light&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,svelte,nextjs,nuxtjs,vite,webpack,sass,tailwind,windicss,nodejs,docker,linux,nginx,vscode,notion&theme=light&perline=10" />
 </p>
 
 
