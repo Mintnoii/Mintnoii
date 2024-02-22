@@ -1,33 +1,19 @@
-# Hi! I'm Mintnoii. 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&repeat=false&random=false&center=true&width=1000&lines=Hi%2C+there.+I'm+Mintnoii.+A+Web+Developer+and+Open-Source+enthusiast!" alt="Typing SVG" /></a>
 
-- 👨🏻‍💻 A front-end engineer in Shanghai.
-- 🌱 Focus on React & Vue & Rust.
+## 👨🏻‍💻 Profile ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=mintnoii&label=PROFILE+VIEWS)
 
-<h4 align="left">📚 Languages</h4>
+- 👋 Hi, I'm _**`Mintnoii`**_, a _**`Web Developer`**_ and _**`Open-Source enthusiast`**_.
+- 📖 I'm interested in the _**`Jamstack`**_ &  _**`Serverless`**_ technology stack.
+- 🌱 I'm currently focusing on _**`React`**_, _**`Vue`**_, _**`TypeScript`**_, _**`Next.js`**_ and _**`Node.js`**_.
+- 💪 Dreaming up ideas and making them come true is where my passion lies.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mintnoii&show_icons=true&theme=transparent)
+<!--![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mintnoii&layout=donut&theme=transparent)-->
+
+## 🚀 Tech Stack
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/vuejs/docs/a77f9e210eefce9eedf6326d712f93eabf7d1acd/src/public/logo.svg" alt="vuejs" width="40" height="40"/> 
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/vitejs/vite/364aae13f0826169e8b1c5db41ac6b5bb2756958/docs/images/vite.svg" alt="vite" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,svelte,vite,webpack,sass,tailwind,windicss，nextjs,nuxtjs,nodejs,docker,linux,nginx,vscode,notion&theme=light&perline=10" />
 </p>
-<!--
-<h4>👾 Github Stats & Most Used Languages</h4>
-<img align="left" style="max-width: 100%;width: 475px;height: 162px;" src="https://github-readme-stats.vercel.app/api?username=Mintnoii&theme=tokyonight&show_icons=true&hide=contribs" />
-<img align="center" style="max-width: 100%;height: 162px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mintnoii&layout=compact&theme=tokyonight" />
--->
 
 
